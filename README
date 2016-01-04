@@ -1,0 +1,19 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5301
+
+This is one of six colorschemes that are based on DuoTone themes by Simurai for Atom, http://simurai.com/projects/2016/01/01/duotone-themes/ converted with the help of Base16-builder. 
+
+DuoTone themes use only 2 hues, this leads to a more calm color scheme, but still lets you find the stuff you're looking for.   
+
+One can find the demopage for these colorschemes at: 
+http://atelierbram.github.io/syntax-highlighting/duotones/ 
+
+Downloads at the GitHub repo: 
+https://github.com/atelierbram/vim-colors_duotones 
+
+Screenshots: 
+http://atelierbram.github.io/syntax-highlighting/assets/img/duotones-dark_vim_960x640.png
+http://atelierbram.github.io/syntax-highlighting/assets/img/duotones-darkSea_vim_960x640.png 
+http://atelierbram.github.io/syntax-highlighting/assets/img/duotones-darkSpace_vim_960x640.png
+http://atelierbram.github.io/syntax-highlighting/assets/img/duotones-darkEarth_vim_960x640.png
+http://atelierbram.github.io/syntax-highlighting/assets/img/duotones-darkForest_vim_960x640.png
+http://atelierbram.github.io/syntax-highlighting/assets/img/duotones-darkPool_vim_960x640.png
